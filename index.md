@@ -9,10 +9,15 @@ Custom Native Game Engines & Simulation Environments
 
 ### Active Development Projects
 
-#### 🏙️ PyCity `v0.0.2-alpha`
+#### <img src="assets/Pycity.png" alt="Pycity Icon"> PyCity `v0.0.2-alpha`
 A tile-based city builder featuring modular assets, automated texture streams, and a localized description parser that decouples game logic from hardcoded translation text strings.
 
 [Pycity Site](https://pycity-project.github.io/){: .btn }
+
+#### <img src="assets/Cube-Dash.png" alt="Cube Dash Icon"> Cube Dash `v0.0.1-alpha`
+A tile-based city builder featuring modular assets, automated texture streams, and a localized description parser that decouples game logic from hardcoded translation text strings.
+
+[Cube-Dash Site](https://cube-dash.github.io/){: .btn }
 
 ***
 
