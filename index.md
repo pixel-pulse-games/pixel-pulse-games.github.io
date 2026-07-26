@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Pixel-Pulse Labs
+title: Pixel-Pulse Games
 ---
 
-# PIXEL-PULSE LABS
 Custom Native Game Engines & Simulation Environments
 
 ***
