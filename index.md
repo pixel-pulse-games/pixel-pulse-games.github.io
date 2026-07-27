@@ -12,12 +12,12 @@ Custom Native Game Engines & Simulation Environments
 #### <img src="assets/Pycity.png" alt="Pycity Icon"> PyCity `v0.0.2-alpha`
 A tile-based city builder featuring modular assets, automated texture streams, and a localized description parser that decouples game logic from hardcoded translation text strings.
 
-[Pycity Site](pycity/){: .btn }
+[Pycity Site](https://pixel-pulse.work.gd/pycity/){: .btn }
 
 #### <img src="assets/Cube-Dash.png" alt="Cube Dash Icon"> Cube Dash `v0.0.1-alpha`
 A high-performance custom 2D engine built from scratch using strict memory management loops. Implements rapid collision matrix layers, dynamic velocity handling, and tight mechanical game physics optimized for fast-paced platforming.
 
-[Cube-Dash Site](pixel-pulse.work.gd/Cube-Dash/){: .btn }
+[Cube-Dash Site](https://pixel-pulse.work.gd/Cube-Dash/){: .btn }
 
 ***
 
