@@ -14,10 +14,7 @@ A tile-based city builder featuring modular assets, automated texture streams, a
 
 [Pycity Site](redirect-for-pycity.md)
 
-#### <img src="assets/Cube-Dash.png" alt="Cube Dash Icon"> Cube Dash `v0.0.1-alpha`
-A high-performance custom 2D engine built from scratch using strict memory management loops. Implements rapid collision matrix layers, dynamic velocity handling, and tight mechanical game physics optimized for fast-paced platforming.
 
-[Cube-Dash Site](redirect-for-cube-dash.md)
 
 ***
 
