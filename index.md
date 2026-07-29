@@ -9,7 +9,7 @@ Custom Native Game Engines & Simulation Environments
 
 ### Active Development Projects
 
-#### <img src="assets/Pycity.png" alt="Pycity Icon"> PyCity `v0.0.2-alpha`
+#### <img src="assets/Pycity.png" alt="Pycity Icon"> PyCity `v0.0.4-alpha`
 A tile-based city builder featuring modular assets, automated texture streams, and a localized description parser that decouples game logic from hardcoded translation text strings.
 
 [Pycity Site](redirect-for-pycity.md)
